@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "baseurl = \"https://dexter816.github.io/blog/\"\nlanguageCode = \"en-us\"\ntitle = \"JEC-DEV-COMMUNITY\"\ntheme = \"blackburn\"\nauthor = \"Yoshiharu Yamashita\"\ncopyright = \"&copy; 2017. All rights reserved.\"\ncanonifyurls = true\npaginate = 10\n\n[indexes]\n  tag = \"tags\"\n  topic = \"topics\"\n\n[params]\n  # Shown in the home page\n  subtitle = \"learn,bend,join,break,combine, code and make friends \"\n  brand = \"JEC-DEV\"\n  googleAnalytics = \"Your Google Analytics tracking ID\"\n  disqus = \"Your Disqus shortname\"\n  # CSS name for highlight.js\n  highlightjs = \"androidstudio\"\n  dateFormat = \"02 Jan 2006, 15:04\"\n\n[menu]\n  # Shown in the side menu.\n  [[menu.main]]\n    name = \"Home\"\n    pre = \"<i class='fa fa-home fa-fw'></i>\"\n    weight = 1\n    identifier = \"home\"\n    url = \"/\"\n  \n  [[menu.main]]\n    name = \"Posts\"\n    pre = \"<i class='fa fa-list fa-fw'></i>\"\n    weight = 2\n    identifier = \"post\"\n    url = \"/post/\"\n  [[menu.main]]\n    name = \"About\"\n    pre = \"<i class='fa fa-user fa-fw'></i>\"\n    weight = 3\n    identifier = \"about\"\n    url = \"/about/\"\n  [[menu.main]]\n    name = \"workshops\"\n    pre = \"<i class='fa fa-file fa-fw'></i>\"\n    weight = 4\n    url = \"/workshops/\"\n  [[menu.main]]\n    name = \"Contact\"\n    pre = \"<i class='fa fa-phone fa-fw'></i>\"\n    weight = 4\n    url = \"/contact/\"\n  \n\n[social]\n  # Link your social networking accouns to the side menu\n  # by entering your username or ID.\n  twitter = \"*\"\n  facebook = \"*\"\n  slack = \"*\"\n  irc = \"#jec-dev\"\n  github = \"jec-dev\"\n  linkedin = \"*\"\n  ",
+    "created" : 1504412986911.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2915074859",
+    "id" : "F723773",
+    "lastKnownWriteTime" : 1504426353,
+    "last_content_update" : 1504426353503,
+    "path" : "~/new_hugo_website/config.toml",
+    "project_path" : "config.toml",
+    "properties" : {
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "text"
+}
